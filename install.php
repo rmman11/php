@@ -1,5 +1,7 @@
 
 <?php
+
+//here install the database in phpmyadmin
 $servername = "localhost";
 $username = "root";
 $password = "";
